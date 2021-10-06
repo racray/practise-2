@@ -1,0 +1,8 @@
+.row > col {
+    background-color: chocolate;
+    border: 1px solid;
+}
+img{
+    height:10rem;
+    width: 20rem;
+}
